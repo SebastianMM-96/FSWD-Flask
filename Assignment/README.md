@@ -2,7 +2,7 @@
 
 In this folder you will find some of the tasks assigned during the course of the Full Stack Web Development with Flask course
 
-## Homework Assignment #1
+## [Homework Assignment #1](https://github.com/SebastianMM-96/FSWD-Flask/tree/main/Assignment/H1)
 
 Details:
  
@@ -12,7 +12,7 @@ Build a simple "hello world" application in Flask. Here are the specs:
 2. When you make a request to the base URL (no path), the application should return a 200 response, and a plain text body that says "Hello World"
 
 
-## Homework Assignment #2
+## [Homework Assignment #2](https://github.com/SebastianMM-96/FSWD-Flask/tree/main/Assignment/H2)
 
 Details:
  
