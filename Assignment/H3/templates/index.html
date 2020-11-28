@@ -1,0 +1,28 @@
+{% extends "structure.html" %}
+
+{% block main %}
+    <div class="container">
+        <h2>Welcome</h2>
+    </div>
+
+    <div class="container">
+        <label>Login:</label>
+        <form action="/" method="POST">
+            <input placeholder="Username" name="username" type="text">
+            <input placeholder="Password" name="password" type="password">
+            <input type="submit" value="Send">
+        </form>
+        <p>{{ message }}</p>
+    </div>
+
+    <div class="container">
+        <h3>What is this about</h3>
+        <p>
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+            Ipsa, quis obcaecati. Impedit animi corrupti totam dolore reiciendis quasi? 
+            Iusto quasi voluptas molestiae nam distinctio aspernatur cupiditate nobis, 
+            eos harum aperiam?
+        </p>
+    </div>
+
+{% endblock main %}
