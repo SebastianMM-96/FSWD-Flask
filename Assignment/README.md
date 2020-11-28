@@ -25,4 +25,13 @@ Details:
 4. Add a profile picture (or your favorite avatar) on that page, and add a bit of CSS so the image is positioned next to the paragraph.
 
 
-## Homework Assignment #3
+## [Homework Assignment #3](https://github.com/SebastianMM-96/FSWD-Flask/tree/main/Assignment/H3)
+
+Assignment Details:
+
+
+1. Make a list of all the individual routes and pages that will need to exist on your application. Now actually create those routes, and the empty HTML templates. Don't worry about filling in functionality yet, you are just creating the scaffolding of the application.
+
+2. Choose the database you'd like to use for your app (MySQL, PostgreSQL, etc). Whatever the choice, you'll want to install a working version of the database within your Ubuntu VM so your application can connect to it.
+
+3. Design the database schema for your application. How many tables should exist? What columns should exist within those tables, and what should their data-types be? Once you've thought it out, now's the time to actually create those tables within the DB. Once you're done, export your schema / table-structure and that file in your application's folder.
